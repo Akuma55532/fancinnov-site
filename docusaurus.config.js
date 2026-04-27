@@ -30,8 +30,6 @@ const config = {
   organizationName: 'Akuma55532', // Usually your GitHub org/user name.
   projectName: 'fancinnov-site', // Usually your repo name.
 
-  deploymentBranch: 'gh-pages',
-
   onBrokenLinks: 'throw',
 
   trailingSlash: false,
